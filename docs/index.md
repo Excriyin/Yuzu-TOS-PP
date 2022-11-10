@@ -40,8 +40,8 @@ No usage of data outside the aforementioned cases will happen and under no circu
 ## Stored Information
 The bot may store the following  information upon a User using  Certain Commands:
 
--Their Database is stored within Sqlite and kept privately in my files 
--Their prefix and autoplay is stored when using the Dashboard
+-Their Database is stored within mongodb and kept privately in my files 
+-Their playlists  is stored when using the playlist command feature.
 
 No other information outside the above-mentioned one will be stored AUTOMATICALLY.
 
